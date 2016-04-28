@@ -12,6 +12,7 @@ html, body {
 #footer {
   height: 60px;
   background-color: #f5f5f5;
+  margin-top: 40px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -20,6 +21,9 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-brand {
   font-family: 'Raleway';
   font-size: 20px;
+}
+#echo {
+  display: none;
 }
 #console {
   height: 150px;
@@ -47,4 +51,3 @@ label {
   font-weight: normal;
   cursor: pointer;
 }
-
